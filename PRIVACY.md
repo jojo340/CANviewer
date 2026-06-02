@@ -1,4 +1,4 @@
-CANviewer Privacy Policy
+# CANviewer Privacy Policy
 
 CANviewer does not require users to register or log in.
 

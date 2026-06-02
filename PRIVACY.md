@@ -1,3 +1,13 @@
+CANviewer Privacy Policy
+
+CANviewer does not require users to register or log in.
+
+ASC, BLF, and DBC files imported by users are parsed locally on the device only. These files are used to view CAN messages, filter data, and plot signal curves. The app does not upload, store, or share any user-imported files.
+
+CANviewer does not collect personally identifiable information, does not include advertising SDKs, and does not track users.
+
+If you have any questions, please contact: yangnote@qq.com
+
 # CANviewer 隐私政策
 
 CANviewer 不要求用户注册或登录。

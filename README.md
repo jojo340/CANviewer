@@ -1,4 +1,41 @@
 # CANviewer
+# English Version
+# CANviewer Support
+
+CANviewer is an iOS tool for viewing CAN logs, parsing DBC files, and plotting signal trends.
+
+## Supported File Formats
+
+- ASC CAN logs
+- BLF CAN logs
+- DBC files
+
+## Frequently Asked Questions
+
+If a log file cannot be imported, please make sure it is a standard ASC or BLF file.
+
+If DBC signal curves cannot be displayed, please check that:
+
+- A CAN log has been imported
+- A matching DBC file has been imported
+- The CAN IDs in the DBC file match the CAN IDs in the log
+- The selected signal has corresponding message data in the log
+
+## Contact
+
+For technical support or file compatibility feedback, please contact:
+
+yangnote@qq.com
+
+When reporting an issue, please include:
+
+- iOS version
+- CANviewer version
+- File format, such as ASC, BLF, or DBC
+- Description of the issue
+- A reproducible sample file, if available
+  
+# 中文版本
 # CANviewer 技术支持
 
 CANviewer 是一款用于查看 CAN 日志、解析 DBC 文件并绘制信号曲线的 iOS 工具。
